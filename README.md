@@ -26,6 +26,7 @@ Based on the August 2019 dataset males were the primary user of Citibikes; total
 ![image](https://user-images.githubusercontent.com/79486450/120937660-afd4dd80-c6dc-11eb-866d-99208d825da9.png)
 
 **Trips by Weekday:** 
+
 ![image](https://user-images.githubusercontent.com/79486450/120937781-646eff00-c6dd-11eb-9e0f-12f6916f9e2d.png)
 
 **Trips by Gender Weekday per Hour:** 
