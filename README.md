@@ -15,8 +15,6 @@ Following Tools were used and learned.
 ## Results:
 ![image](https://user-images.githubusercontent.com/79486450/120937596-63899d80-c6dc-11eb-81bb-9d1d08e61af8.png)
 
-![image](https://user-images.githubusercontent.com/79486450/120937803-8a949f00-c6dd-11eb-9e2d-6519135b7c21.png)
-
 **Checkout Times for Users:** 
 ![image](https://user-images.githubusercontent.com/79486450/120939643-fd564800-c6e6-11eb-9abb-e0db7c17a360.png)
 ![image](https://user-images.githubusercontent.com/79486450/120937642-9c297700-c6dc-11eb-846a-4e16b5c21232.png)
