@@ -28,6 +28,5 @@ Following Tools were used and learned.
 ![image](https://user-images.githubusercontent.com/79486450/120937689-d85cd780-c6dc-11eb-9640-7fda4bc760e3.png)
 
 ## Tableau Visulaization:
-
-https://public.tableau.com/app/profile/geetha.shanthibushan/viz/NYCCitiBikeCruisin/NYCCitiBike
-[NYC_CitiBike_Challenge_Trip_Analysis](https://public.tableau.com/app/profile/geetha.shanthibushan/viz/NYCCitiBikeCruisin/NYCCitiBike)
+[NYC Citi Bike Cruisin'](https://public.tableau.com/app/profile/geetha.shanthibushan/viz/NYCCitiBikeCruisin/NYCCitiBike)
+[NYC_CitiBike_Challenge_Trip_Analysis](https://public.tableau.com/app/profile/geetha.shanthibushan/viz/NYC_CitiBike_Challenge_Trip_Analysis_16230063308930/Deliverable2-Story)
