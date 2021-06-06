@@ -25,9 +25,10 @@ Following Tools were used and learned.
 
 ![image](https://user-images.githubusercontent.com/79486450/120937683-cd09ac00-c6dc-11eb-85bb-b3df6df3a67f.png)
 
-User Types by gender and usage by weekday: 
-In here it can be concluded that Males have higher utilizatio than the female.
-The Unknown category have utilized the service in weekend more than any other days.
+**User Types by gender and usage by weekday: 
+
+*In here it can be concluded that Males have higher utilizatio than the female.
+*The Unknown category have utilized the service in weekend more than any other days.
 ![image](https://user-images.githubusercontent.com/79486450/120937689-d85cd780-c6dc-11eb-9640-7fda4bc760e3.png)
 
 ## Tableau Visulaization:
